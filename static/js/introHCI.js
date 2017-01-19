@@ -9,6 +9,35 @@
 	color: #CC00AA;
 }
 
+/*.project{
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}*/
+
+img.thumbnail{
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+.contact-info{
+     font-size: 10pt;
+     color: #cccccc;
+}
+
+p{
+     font-variant: small-caps;
+}
+
+.project p{
+     font-variant: small-caps;
+}
+
+#project1{
+     font-variant: small-caps;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
